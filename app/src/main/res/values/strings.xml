@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestTaskAeon</string>
+    <string name="login">Login</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="prompt_password">Password</string>
+    <string name="payment_amount">%s ₽</string>
+    <string name="logout">Logout</string>
+    <string name="payments">Payments</string>
+</resources>
